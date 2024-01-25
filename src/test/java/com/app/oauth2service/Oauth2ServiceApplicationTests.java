@@ -1,4 +1,4 @@
-package com.app.oauth2mongodb;
+package com.app.oauth2service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
